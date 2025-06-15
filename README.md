@@ -1,4 +1,9 @@
+# 基于开源项目
+> https://github.com/Gsllchb/Handright
+
+
 # 源码结构
+
 - main.py 和 gui.py 为项目源码
 - index.py 为调试调参代码
 - fonts/ 文件夹下放着项目需要的字体文件
